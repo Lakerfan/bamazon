@@ -8,3 +8,5 @@ Thank you for shopping at Bamazon!
 
 
 <img width="1053" alt="bamazon_database2" src="https://user-images.githubusercontent.com/29760551/70430014-b2467080-1a2e-11ea-97ab-04cdf70675d1.png">
+
+<img width="1051" alt="bamazon_database3" src="https://user-images.githubusercontent.com/29760551/70430066-cee2a880-1a2e-11ea-8ed7-97ef475b3d2e.png">
